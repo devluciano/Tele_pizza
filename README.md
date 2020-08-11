@@ -4,7 +4,7 @@
 ### Atalhos:
 - [Recursos](#recursos)
 - [Dados API](#forma-dos-dados-da-api-em-json)
-- [Demonstração](https://fernandonetom.github.io/compra-de-pizzas/)
+
 
 ### Recursos:
  - Exibição de pizzas de forma clara
